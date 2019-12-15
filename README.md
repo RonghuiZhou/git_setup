@@ -1,1 +1,2 @@
-# git_setup
+# Process to set up Git on your computer
+
